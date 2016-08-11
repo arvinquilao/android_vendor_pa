@@ -34,3 +34,7 @@
     $(LOCAL_DIR)/ls990/pa_ls990.mk \
     $(LOCAL_DIR)/vs985/pa_vs985.mk
 
+# Android One Seed
+ifeq (pa_seed,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/seed/pa_seed.mk
+endif
