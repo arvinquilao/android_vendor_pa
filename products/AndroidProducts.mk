@@ -57,3 +57,7 @@ ifeq (pa_vs985,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/vs985/pa_vs985.mk
 endif
 
+# Android One Seed
+ifeq (pa_seed,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/seed/pa_seed.mk
+endif
