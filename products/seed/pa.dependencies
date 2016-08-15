@@ -48,12 +48,6 @@
         "revision":     "marshmallow-caf-8916"
     },
     {
-        "remote":       "github",
-        "repository":   "CyanogenMod/android_hardware_qcom_bt",
-        "target_path":  "hardware/qcom/bt",
-        "revision":     "cm-13.0-caf"
-    },
-    {
         "remote":       "aospa",
         "repository":   "android_packages_apps_FMRadio",
         "target_path":  "packages/apps/FMRadio",
