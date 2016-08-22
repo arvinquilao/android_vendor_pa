@@ -49,6 +49,12 @@
     },
     {
         "remote":       "aospa",
+        "repository":   "android_frameworks_av",
+        "target_path":  "frameworks/av",
+        "revision":     "marshmallow-caf-8996"
+    },
+    {
+        "remote":       "aospa",
         "repository":   "android_packages_apps_FMRadio",
         "target_path":  "packages/apps/FMRadio",
         "revision":     "marshmallow-caf"
