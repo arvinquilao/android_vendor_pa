@@ -42,7 +42,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-google
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=seed \
-    BUILD_FINGERPRINT=google/seed_l8150/seed:6.0.1/MOB30Z/3084227:user/release-keys \
-    PRIVATE_BUILD_DESC="seed_l8150-user 6.0.1 MOB30Z 3084227 release-keys"
+    BUILD_FINGERPRINT=google/seed_l8150/seed:7.0/NRD90M/3085278:user/release-keys \
+    PRIVATE_BUILD_DESC="seed_l8150-user 7.0 NRD90M 3085278 release-keys"
 
 endif
